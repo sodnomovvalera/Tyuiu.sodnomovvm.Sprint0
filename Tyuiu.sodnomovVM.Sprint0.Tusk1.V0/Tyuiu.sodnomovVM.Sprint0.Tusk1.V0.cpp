@@ -2,10 +2,19 @@
 //
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello World!\n";
+    cout << "Hello World!\n";
+    cout << "Введите ФИО : ";
+    string a;
+    cin >> a;
+    cout << a<<endl;
+    int v;
+    cin >> v;
+    cout << "Возраст = " << v;
+    return 0;
+
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
