@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{3FFF9D2F
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.sodnomovVM.Sprint0.Task0.V0", "Tyuiu.sodnomovVM.Sprint0.Task0.V0\Tyuiu.sodnomovVM.Sprint0.Task0.V0.vcxproj", "{85741924-2CC7-484D-BE4D-90388FDCE597}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{A5A3A218-3C58-4799-A343-84AE908BC6D4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.sodnomovVM.Sprint0.Tusk1.V0", "Tyuiu.sodnomovVM.Sprint0.Tusk1.V0\Tyuiu.sodnomovVM.Sprint0.Tusk1.V0.vcxproj", "{818955C4-C86E-4F4D-92DC-10F5A01C469E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -23,12 +27,21 @@ Global
 		{85741924-2CC7-484D-BE4D-90388FDCE597}.Release|x64.Build.0 = Release|x64
 		{85741924-2CC7-484D-BE4D-90388FDCE597}.Release|x86.ActiveCfg = Release|Win32
 		{85741924-2CC7-484D-BE4D-90388FDCE597}.Release|x86.Build.0 = Release|Win32
+		{818955C4-C86E-4F4D-92DC-10F5A01C469E}.Debug|x64.ActiveCfg = Debug|x64
+		{818955C4-C86E-4F4D-92DC-10F5A01C469E}.Debug|x64.Build.0 = Debug|x64
+		{818955C4-C86E-4F4D-92DC-10F5A01C469E}.Debug|x86.ActiveCfg = Debug|Win32
+		{818955C4-C86E-4F4D-92DC-10F5A01C469E}.Debug|x86.Build.0 = Debug|Win32
+		{818955C4-C86E-4F4D-92DC-10F5A01C469E}.Release|x64.ActiveCfg = Release|x64
+		{818955C4-C86E-4F4D-92DC-10F5A01C469E}.Release|x64.Build.0 = Release|x64
+		{818955C4-C86E-4F4D-92DC-10F5A01C469E}.Release|x86.ActiveCfg = Release|Win32
+		{818955C4-C86E-4F4D-92DC-10F5A01C469E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{85741924-2CC7-484D-BE4D-90388FDCE597} = {3FFF9D2F-7897-4B1A-9B96-15E90D7F5B21}
+		{818955C4-C86E-4F4D-92DC-10F5A01C469E} = {A5A3A218-3C58-4799-A343-84AE908BC6D4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {435D4ED4-3FEB-454F-AE8E-FF39886B2794}
