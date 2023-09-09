@@ -22,8 +22,8 @@ namespace UnitTest1
 			c = service->Add(a, b);
 
 			//Valid
-			Assert::AreEqual(45,c)
+			Assert::AreEqual(45, c)
 
-		}
+		};
 	};
 }
