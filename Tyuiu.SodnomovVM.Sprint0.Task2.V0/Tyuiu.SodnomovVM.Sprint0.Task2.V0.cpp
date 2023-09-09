@@ -1,21 +1,11 @@
-﻿// Tyuiu.sodnomovVM.Sprint0.Tusk1.V0.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
+﻿// Tyuiu.SodnomovVM.Sprint0.Task2.V0.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
 
 #include <iostream>
-using namespace std;
+
 int main()
 {
-    setlocale(LC_ALL, "ru");
-    cout << "Hello World!\n";
-    cout << "Введите ФИО : ";
-    string a;
-    cin >> a;
-    cout << a<<endl;
-    int v;
-    cin >> v;
-    cout << "ВОзвраcт = " << v;
-    return 0;
-
+    std::cout << "Hello World!\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
