@@ -23,4 +23,4 @@ namespace UNitTest2
 			Assert::AreEqual(12, d);
 		};
 	};
-}
+} //b
