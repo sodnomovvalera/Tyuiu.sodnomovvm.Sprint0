@@ -7,18 +7,19 @@ using namespace std;
 
 int main()
 {
+    setlocale(LC_ALL, "ru");
     int R;
     int Benz;
     int Cena;
-    cout << "Vvedite rastoyanie do dachi:  ";
+    cout << "Введите расстояние до дачи : ";
     cin >> R;
-    cout << "Vvedite rashod benzina na 100m v litrah:  ";
+    cout << "Введите расход бензина на 100 метров в литрах : ";
     cin >> Benz;
-    cout << "Vvedite tcenu litra benzina:  ";
+    cout << "Введите цену за литр бензина:  ";
     cin >> Cena;
     int Poezdka;
     Poezdka = (R * 2 * Benz) / 100 * Cena;
-    cout << "Poezdka oboidetsa v:  " << Poezdka;
+    cout << "Поездка обойдется вам в:  " << Poezdka;
     return 0;
 };
 
