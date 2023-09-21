@@ -14,3 +14,4 @@ namespace TyuysodnomovvmControl0V2Zadacha2Test
 		}
 	};
 }
+//.
