@@ -13,7 +13,7 @@ namespace Tyuiu.SodnomovVM.Sprint0.Task3.V0.Test
         public void CheckedValid()
 
         {
-            Assert.AreEqual(10, DataService.Sum(7, 7));
+            Assert.AreEqual(10, DataService.Sum(5, 5));
         }
     }
 }
